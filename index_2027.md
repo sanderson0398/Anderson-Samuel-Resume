@@ -77,7 +77,7 @@ __Math Tutor__, LDSBC
 
 
 `2023-2025`
-__Service Missionary__, South Africa
+__Service Missionary__, Nampa, Idaho
 
 
 
