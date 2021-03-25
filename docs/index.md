@@ -2,7 +2,7 @@
 layout: cv
 title: Sam Anderson's Resume
 ---
-# Sam Anderson is the best
+# Sam Anderson
 
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
