@@ -46,8 +46,10 @@ __Data Science Socity__, team member
 
 `2016-2018`
 __Service Missionary__, Nampa, Idaho
-- Trained a group of 8 other volenteers
-- 
+- Planned weekly addiction recovery class and developed mentoring plans to measure progress of each group member
+-	Organized leadership training meetings on productivity and time management
+-	Addressed groups of 10-30 people 3+ times a week
+-	Diversified target consumer approaches through identifying local resources and culture to increase 80-hour work week efficiency and resulted in 300% increase in success 
 
 
 <!-- ### Footer
