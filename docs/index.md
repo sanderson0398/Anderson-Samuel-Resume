@@ -24,24 +24,20 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 ## Related Experience
 
+`Dec 2019 – April 2020`
 ### Internships
 __Madison Liberty Institute__, Policy Anylist
-- Researched for state representitive
-- wrote summaries of legislation
+- Researched proposed state legislation to inform community
+- Drafted bill summaries for the community outreach department
 
-### Data Science Lead
+`Jan 2020 – July 2020`
+### Idaho Economic Indicator Research Project   
+- Created quarterly publication of current economic trends in Idaho with graphs made in Tableau
+- Collected and analyzed 21 different indicators of economic health in 15 metropolitan areas of Idaho
+
 
 `April 2027 - June 2027`
 __Data Science Socity__, team member
-
--
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
 
 
 
