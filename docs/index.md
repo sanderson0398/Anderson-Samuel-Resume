@@ -39,7 +39,7 @@ __Madison Liberty Institute__, Policy Anylist
 `April 2027 - June 2027`
 __Data Science Socity__, team member
 
-
+lakdjflasdjfdf
 
 ## Service and Work History
 
