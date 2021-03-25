@@ -25,7 +25,9 @@ __Brigham Young University - Idaho__, Rexburg, ID
 ## Related Experience
 
 ### Internships
-
+__Madison Liberty Institute__, Policy Anylist
+- Researched for state representitive
+- wrote summaries of legislation
 
 ### Data Science Lead
 
