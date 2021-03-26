@@ -36,9 +36,11 @@ __Madison Liberty Institute__, Policy Anylist
 - Collected and analyzed 21 different indicators of economic health in 15 metropolitan areas of Idaho
 
 
-`April 2027 - June 2027`
+`January 2020 - April 2020`
 __Data Science Socity__, team member
-
+- gathered data of fire hydrant loacations in county
+- calucalte how much water the fire dept. can devlier to any given area in the county
+- created visualization of county areas that either meet or fail to meet state regulation
 
 ## Service and Work History
 
@@ -46,9 +48,9 @@ __Data Science Socity__, team member
 `2016-2018`
 __Service Missionary__, Nampa, Idaho
 - Planned weekly addiction recovery class and developed mentoring plans to measure progress of each group member
--	Organized leadership training meetings on productivity and time management
--	Addressed groups of 10-30 people 3+ times a week
--	Diversified target consumer approaches through identifying local resources and culture to increase 80-hour work week efficiency and resulted in 300% increase in success 
+- Organized leadership training meetings on productivity and time management
+- Addressed groups of 10-30 people 3+ times a week
+- Diversified target consumer approaches through identifying local resources and culture to increase 80-hour work week efficiency and resulted in 300% increase in success 
 
 
 <!-- ### Footer
