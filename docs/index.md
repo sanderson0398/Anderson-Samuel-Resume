@@ -5,7 +5,7 @@ title: Sam Anderson's Resume
 # Sam Anderson
 
 <div id="webaddress">
-<a href="sanderson0398@gmail.com">datascience@byui.edu</a>
+<a href="https://www.gmail.com">sanderson0398@gmail.com</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
 | <a href="https://www.linkedin.com/in/samuel-b-anderson/">LinkedIn</a>
 | <a href="https://github.com/sanderson0398">GitHub</a>
