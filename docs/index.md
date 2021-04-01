@@ -15,12 +15,10 @@ title: Sam Anderson's Resume
 
 ## Education
 
-
 `Expected 2023`
 __Brigham Young University - Idaho__, Rexburg, ID
 - Bachelor of Science in Data Science 
 - 3.5 GPA
-
 
 ## Related Experience
 
@@ -35,7 +33,6 @@ __Madison Liberty Institute__, Policy Anylist
 - Created quarterly publication of current economic trends in Idaho with graphs made in Tableau
 - Collected and analyzed 21 different indicators of economic health in 15 metropolitan areas of Idaho
 
-
 `January 2020 - April 2020`
 __Data Science Socity__, team member
 - gathered data of fire hydrant loacations in county
@@ -44,14 +41,12 @@ __Data Science Socity__, team member
 
 ## Service and Work History
 
-
 `2016-2018`
 __Service Missionary__, Nampa, Idaho
 - Planned weekly addiction recovery class and developed mentoring plans to measure progress of each group member
 - Organized leadership training meetings on productivity and time management
 - Addressed groups of 10-30 people 3+ times a week
-- Diversified target consumer approaches through identifying local resources and culture to increase 80-hour work week efficiency and resulted in 300% increase in success 
-
+- Diversified target consumer approaches through identifying local resources and culture to increase 80-hour work week efficiency and   resulted in 300% increase in success 
 
 <!-- ### Footer
 
